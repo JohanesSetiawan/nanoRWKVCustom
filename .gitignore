@@ -1,0 +1,10 @@
+/data/summary/*
+/data/shakespeare/*
+/data/tinystories-15k/*
+/out/*.pt
+/venv/
+/keysModel.py
+/model.py
+/train.py
+/*.txt
+/trainKaggle.py
