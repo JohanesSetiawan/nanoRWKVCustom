@@ -66,6 +66,11 @@ Lily picked up a hay and proudly went to a small portion. She was very happened.
 
 Generated text length: 227 | Inference time: 3 seconds
 
+## Dependencies
+- torch
+- numpy
+- tiktoken
+
 ## Conclusion
 The nanoRWKV model is a custom neural network architecture that combines several cutting-edge techniques, such as time-based and channel-based mixing, sliding window attention, grouped attention, and a Tiny Mixture of Experts (TinyMoE) layer. These components work together to enhance the model's ability to capture both local and global dependencies, as well as to learn specialized representations. The combination of these techniques results in a powerful and efficient model that can be used for a variety of natural language processing tasks.
 
